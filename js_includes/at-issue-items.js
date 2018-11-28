@@ -35,17 +35,27 @@ var items = [
 
     //["completed", "Form", {html: {include: 'completion_message.html'}}],
 
-    [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}}],
-    [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}],
+    [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}},
+                            "Form", {html: {include: 'John_fact_question.html'}}], //mismatch: belief QUD, fact is at issue in question
+    [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}},
+                            "Form", {html: {include: 'John_fact_question.html'}}], //match: fact QUD, fact is at issue in question
 
-    [["story", 2], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}}],
-    [["story", 2], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}],
+    [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}},
+                            "Form", {html: {include: 'John_belief_question.html'}}], //match: belief QUD, belief is at issue in question
+    [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}},
+                            "Form", {html: {include: 'John_belief_question.html'}}], //mismatch: fact QUD, belief is at issue in question
 
-    //[["story", 1], "Form", {html: {include: 'John_bomb_belief_story_bomb.html'}}],
-    //[["story", 1], "Form", {html: {include: 'John_bomb_fact_story_bomb.html'}}],
+    [["story", 1], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}},
+                            "Form", {html: {include: 'Mary_fact_question.html'}}], //mismatch: belief QUD, fact is at issue in question
+    [["story", 1], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}},
+                            "Form", {html: {include: 'Mary_fact_question.html'}}], //match: fact QUD, fact is at issue in question
 
-    //[["story", 2], "Form", {html: {include: 'Mary_bomb_belief_story_bomb.html'}}],
-    //[["story", 2], "Form", {html: {include: 'Mary_bomb_fact_story_bomb.html'}}],
+    [["story", 1], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}},
+                            "Form", {html: {include: 'Mary_belief_question.html'}}], //match: belief QUD, belief is at issue in question
+    [["story", 1], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}},
+                            "Form", {html: {include: 'Mary_belief_question.html'}}], //mismatch: fact QUD, belief is at issue in question
+
+
 
     //[["test", [3,1]], "Form", html: {include: 'John_fact_question.html'}}],
     //[["test", [3,1]], "Form", html: {include: 'John_belief_question.html'}}],
