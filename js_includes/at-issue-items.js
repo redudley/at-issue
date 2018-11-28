@@ -1,11 +1,12 @@
 
 var shuffleSequence = seq(
-                             "consent",
+                             ??"consent",
                             //"instructions",
                               "story",
                               //"test",
                              //"completed",
-                             "subj_info", "sr", "code"
+                             //"subj_info",
+                             "sr", "code"
                             );
 
 var defaults = [
@@ -36,24 +37,24 @@ var items = [
     //["completed", "Form", {html: {include: 'completion_message.html'}}],
 
     [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}},
-                            "Form", {html: {include: 'John_fact_question.html'}}], //mismatch: belief QUD, fact is at issue in question
+                            "Form", {html: {include: 'John_fact_question.html'}}], //4 - mismatch: belief QUD, fact is at issue in question
     [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}},
-                            "Form", {html: {include: 'John_fact_question.html'}}], //match: fact QUD, fact is at issue in question
+                            "Form", {html: {include: 'John_fact_question.html'}}], //5 - match: fact QUD, fact is at issue in question
 
     [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}},
-                            "Form", {html: {include: 'John_belief_question.html'}}], //match: belief QUD, belief is at issue in question
+                            "Form", {html: {include: 'John_belief_question.html'}}], //6 - match: belief QUD, belief is at issue in question
     [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}},
-                            "Form", {html: {include: 'John_belief_question.html'}}], //mismatch: fact QUD, belief is at issue in question
+                            "Form", {html: {include: 'John_belief_question.html'}}], //7 - mismatch: fact QUD, belief is at issue in question
 
     [["story", 1], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}},
-                            "Form", {html: {include: 'Mary_fact_question.html'}}], //mismatch: belief QUD, fact is at issue in question
+                            "Form", {html: {include: 'Mary_fact_question.html'}}], //8 - mismatch: belief QUD, fact is at issue in question
     [["story", 1], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}},
-                            "Form", {html: {include: 'Mary_fact_question.html'}}], //match: fact QUD, fact is at issue in question
+                            "Form", {html: {include: 'Mary_fact_question.html'}}], //9 - match: fact QUD, fact is at issue in question
 
     [["story", 1], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}},
-                            "Form", {html: {include: 'Mary_belief_question.html'}}], //match: belief QUD, belief is at issue in question
+                            "Form", {html: {include: 'Mary_belief_question.html'}}], //10 - match: belief QUD, belief is at issue in question
     [["story", 1], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}},
-                            "Form", {html: {include: 'Mary_belief_question.html'}}], //mismatch: fact QUD, belief is at issue in question
+                            "Form", {html: {include: 'Mary_belief_question.html'}}], //11 - mismatch: fact QUD, belief is at issue in question
 
 
 
