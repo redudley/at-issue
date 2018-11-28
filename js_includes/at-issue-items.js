@@ -2,23 +2,23 @@
 var shuffleSequence = seq(
                              "consent",
                             //"instructions",
-                              //"story", "test",
+                              "story",
+                              //"test",
                              //"completed",
                              "subj_info", "sr", "code"
                             );
 
 var defaults = [
-    "Form", {
-        hideProgressBar: true,
-        //continueOnReturn: true,
-        //saveReactionTime: true,
-    },
     "Separator", {
         transfer: 1000,
         normalMessage: "Please wait for the next sentence.",
         errorMessage: "Wrong. Please wait for the next sentence.",
     },
-
+    "Form", {
+        hideProgressBar: true,
+        //continueOnReturn: true,
+        //saveReactionTime: true,
+    },
 ];
 
 var manualSendResults = true;
@@ -35,11 +35,11 @@ var items = [
 
     //["completed", "Form", {html: {include: 'completion_message.html'}}],
 
-    //[["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}}],
-    //[["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}],
+    [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}}],
+    [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}],
 
-    //[["story", 2], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}}],
-    //[["story", 2], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}],
+    [["story", 2], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}}],
+    [["story", 2], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}],
 
     //[["story", 1], "Form", {html: {include: 'John_bomb_belief_story_bomb.html'}}],
     //[["story", 1], "Form", {html: {include: 'John_bomb_fact_story_bomb.html'}}],
