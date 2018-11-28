@@ -2,7 +2,7 @@
 var shuffleSequence = seq(
                              "consent",
                             //"instructions",
-                              "story", "test"
+                              "story", "test",
                              //"finished",
                              "subj_info", "sr", "code"
                             );
