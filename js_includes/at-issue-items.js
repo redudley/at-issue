@@ -10,13 +10,13 @@ var shuffleSequence = seq(
 var defaults = [
     "Form", {
         hideProgressBar: false,
-        continueOnReturn: true,
-        saveReactionTime: true,
+        //continueOnReturn: true,
+        //saveReactionTime: true,
     },
     "Separator", {
         transfer: 1000,
         normalMessage: "Please wait for the next sentence.",
-        errorMessage: "Wrong. Please wait for the next sentence."
+        errorMessage: "Wrong. Please wait for the next sentence.",
     },
 
 ];
