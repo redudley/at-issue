@@ -40,110 +40,84 @@ var items = [
 
     [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}}, //5 - mismatch: belief QUD, fact is at issue in question
                             "Question", {q: "According to John, what's in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "Was John right about that?",
-                                        as: [["1", "no"],
-                                            ["2", "yes"]]},
+                                        as: "no", "yes"},
                                         ],
 
 
     [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}, //6 - match: fact QUD, fact is at issue in question
                             "Question", {q: "According to John, what's in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "Was John right about that?",
-                                        as: [["1", "no"],
-                                            ["2", "yes"]]},
+                                        as: "no", "yes"},
                                         ],
 
 
     [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}}, //7 - match: belief QUD, belief is at issue in question
                             "Question", {q: "What does John think is in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "Was John right about that?",
-                                        as: [["1", "no"],
-                                            ["2", "yes"]]},
+                                        as: "no", "yes"},
                                         ],
 
 
     [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}, //8 - mismatch: fact QUD, belief is at issue in question
                             "Question", {q: "What does John think is in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "Was John right about that?",
-                                        as: [["1", "no"],
-                                            ["2", "yes"]]},
+                                        as: "no", "yes"},
                                         ],
 
     [["story", 1], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}}, //9 - mismatch: belief QUD, fact is at issue in question
                             "Question", {q: "According to Mary, what's in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "Was Mary right about that?",
-                                        as: [["1", "no"],
-                                            ["2", "yes"]]},
+                                        as: "no", "yes"},
                                         ],
 
 
     [["story", 1], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}, //10 - match: fact QUD, fact is at issue in question
                             "Question", {q: "According to Mary, what's in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "Was Mary right about that?",
-                                        as: [["1", "no"],
-                                            ["2", "yes"]]},
+                                        as: "no", "yes"},
                                         ],
 
 
     [["story", 1], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}}, //11 - match: belief QUD, belief is at issue in question
                             "Question", {q: "What does Mary think is in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "Was Mary right about that?",
-                                        as: [["1", "no"],
-                                            ["2", "yes"]]},
+                                        as: "no", "yes"},
                                         ],
 
 
     [["story", 1], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}, //12 - mismatch: fact QUD, belief is at issue in question
                             "Question", {q: "What does Mary think is in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
-                                        as: [["1", "a bomb"],
-                                            ["2", "a pillow"]]},
+                                        as: "a bomb", "a pillow"},
                             "Question", {q: "Was Mary right about that?",
-                                        as: [["1", "no"],
-                                            ["2", "yes"]]},
+                                        as: "no", "yes"},
                                         ],
 
     ["politics", "Question", {q: "How worried are you about bombs being sent to government officials?",  //33
-                              as: [["1", "very worried"],
-                                  ["2", "a little worried"],
-                                  ["3", "not at all worried"]]}],
+                              as: "very worried", "a little worried", "not at all worried"}],
 
     ["subj_info", "Form", {html: {include: 'subject_info_political.html'}}], //14
 
