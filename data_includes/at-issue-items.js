@@ -20,6 +20,7 @@ var defaults = [
     },
     "Question", {
         hideProgressBar: true,
+        hasCorrect: true,
     },
 ];
 
