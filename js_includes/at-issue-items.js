@@ -54,11 +54,11 @@ var items = [
     //[["story", 2], "Form", {html: {include: 'Mary_bomb_belief_story_bomb.html'}}],
     //[["story", 2], "Form", {html: {include: 'Mary_bomb_fact_story_bomb.html'}}],
 
-    [["test", [3,1]], "Form", html: {include: 'John_fact_question.html'}}]
-    [["test", [3,1]], "Form", html: {include: 'John_belief_question.html'}}]
+    [["test", [3,1]], "Form", html: {include: 'John_fact_question.html'}}],
+    [["test", [3,1]], "Form", html: {include: 'John_belief_question.html'}}],
 
-    [["test", [4,2]], "Form", html: {include: 'Mary_fact_question.html'}}]
-    [["test", [4,2]], "Form", html: {include: 'Mary_belief_question.html'}}]
+    [["test", [4,2]], "Form", html: {include: 'Mary_fact_question.html'}}],
+    [["test", [4,2]], "Form", html: {include: 'Mary_belief_question.html'}}],
 
     ["consent", "Form", {html: {include: 'consent.html'}}],
 
