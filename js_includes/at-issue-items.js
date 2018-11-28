@@ -9,7 +9,7 @@ var shuffleSequence = seq(
 
 var defaults = [
     "Form", {
-        hideProgressBar: false,
+        hideProgressBar: true,
         //continueOnReturn: true,
         //saveReactionTime: true,
     },
