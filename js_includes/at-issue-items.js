@@ -13,6 +13,11 @@ var defaults = [
         continueOnReturn: true,
         saveReactionTime: true,
     },
+    "Separator", {
+        transfer: 1000,
+        normalMessage: "Please wait for the next sentence.",
+        errorMessage: "Wrong. Please wait for the next sentence."
+    },
 
 ];
 
@@ -21,6 +26,8 @@ var manualSendResults = true;
 var items = [
 
     ["sr", "__SendResults__", { }],
+
+    ["sep", "Separator", { }],
 
     ["setcounter", "__SetCounter__", { }],
 
