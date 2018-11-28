@@ -1,6 +1,6 @@
 
 var shuffleSequence = seq(
-                             ??"consent",
+                             //"consent",
                             //"instructions",
                               "story",
                               //"test",
