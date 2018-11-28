@@ -117,7 +117,7 @@ var items = [
                                         ],
 
     ["politics", "Question", {q: "How worried are you about bombs being sent to government officials?",  //33
-                              as: "very worried", "a little worried", "not at all worried"}],
+                              as: ["very worried", "a little worried", "not at all worried"]}],
 
     ["subj_info", "Form", {html: {include: 'subject_info_political.html'}}], //14
 
