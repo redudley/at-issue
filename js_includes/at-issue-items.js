@@ -64,11 +64,11 @@ var items = [
     //[["test", [4,2]], "Form", html: {include: 'Mary_fact_question.html'}}],
     //[["test", [4,2]], "Form", html: {include: 'Mary_belief_question.html'}}],
 
-    ["consent", "Form", {html: {include: 'consent.html'}}],
+    //["consent", "Form", {html: {include: 'consent.html'}}],
 
-    ["subj_info", "Form", {html: {include: 'subject_info.html'}}],
+    //["subj_info", "Form", {html: {include: 'subject_info.html'}}],
 
-    ["code", "Form", {html: {include: 'code.html'}}],
+    //["code", "Form", {html: {include: 'code.html'}}],
 
 
 ];
