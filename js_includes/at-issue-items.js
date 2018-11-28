@@ -38,9 +38,9 @@ var items = [
 
     ["setcounter", "__SetCounter__", { }],
 
-    ["instructions", "Form", {html: {include: 'instructions.html'}}],
+    //["instructions", "Form", {html: {include: 'instructions.html'}}],
 
-    ["completed", "Form", {html: {include: 'completion_message.html'}}],
+    //["completed", "Form", {html: {include: 'completion_message.html'}}],
 
     [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}}],
     [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}],
