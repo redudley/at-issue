@@ -48,7 +48,7 @@ var items = [
                                         ],
 
 
-    [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}, //6 - match: fact QUD, fact is at issue in question
+    [["story", 2], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}, //6 - match: fact QUD, fact is at issue in question
                             "Question", {q: "According to John, what's in the box?",
                                         as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
@@ -68,7 +68,7 @@ var items = [
                                         ],
 
 
-    [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}, //8 - mismatch: fact QUD, belief is at issue in question
+    [["story", 2], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}, //8 - mismatch: fact QUD, belief is at issue in question
                             "Question", {q: "What does John think is in the box?",
                                         as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
@@ -87,7 +87,7 @@ var items = [
                                         ],
 
 
-    [["story", 1], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}, //10 - match: fact QUD, fact is at issue in question
+    [["story", 2], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}, //10 - match: fact QUD, fact is at issue in question
                             "Question", {q: "According to Mary, what's in the box?",
                                         as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
@@ -107,7 +107,7 @@ var items = [
                                         ],
 
 
-    [["story", 1], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}, //12 - mismatch: fact QUD, belief is at issue in question
+    [["story", 2], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}, //12 - mismatch: fact QUD, belief is at issue in question
                             "Question", {q: "What does Mary think is in the box?",
                                         as: "a bomb", "a pillow"},
                             "Question", {q: "What was really in the box?",
