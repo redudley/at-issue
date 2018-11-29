@@ -126,7 +126,7 @@ var items = [
 
     ["subj_info", "Form", {html: {include: 'subject_info_political.html'}}], //15
 
-    ["code", "Form", {html: {include: 'code.html'}}, //16
-                    continueOnReturn: true],
+    ["code", "Form", {html: {include: 'code.html'}}], //16
+
 
 ];
