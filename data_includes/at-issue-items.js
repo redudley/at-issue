@@ -3,7 +3,7 @@ var shuffleSequence = seq(
                              "consent",
                              "instructions",
                              "story",
-                             "politics",
+                             randomize("politics"),
                              "subj_info", "sr", "code"
                             );
 
@@ -116,12 +116,17 @@ var items = [
                                         as: ["no", "yes"]},
                                         ],
 
-    ["politics", "Question", {q: "How worried are you about bombs being sent to government officials?",  //33
-                              as: ["very worried", "a little worried", "not at all worried"]}],
+    ["politics", "Question", {q: "How worried are you about bombs being sent to government officials?",  //13
+                              as: [["1","very worried"], ["2","a little worried"], ["3","not at all worried"]],
+                              hasCorrect: false}],
 
-    ["subj_info", "Form", {html: {include: 'subject_info_political.html'}}], //14
+    ["politics", "Question", {q: "How worried are you about taxpayer money being wasted?",  //14
+                              as: [["1","very worried"], ["2","a little worried"], ["3","not at all worried"]],
+                              hasCorrect: false}],
 
-    ["code", "Form", {html: {include: 'code.html'}}], //15
+    ["subj_info", "Form", {html: {include: 'subject_info_political.html'}}], //15
+
+    ["code", "Form", {html: {include: 'code.html'}}], //16
 
 
 ];
