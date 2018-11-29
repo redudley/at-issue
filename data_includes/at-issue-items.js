@@ -39,7 +39,7 @@ var items = [
     ["instructions", "Form", {html: {include: 'instructions.html'}}], //4
 
     [["story", 1], "Form", {html: {include: 'John_bomb_belief_story_pillow.html'}}, //5 - mismatch: belief QUD, fact is at issue in question
-                            "Question", {q: "According to John, what's in the box?",
+                            "Question", {q: "What's in the box, according to John?",
                                         as: ["a bomb", "a pillow"]},
                             "Question", {q: "What was really in the box?",
                                         as: ["a bomb", "a pillow"]},
@@ -49,7 +49,7 @@ var items = [
 
 
     [["story", 1], "Form", {html: {include: 'John_bomb_fact_story_pillow.html'}}, //6 - match: fact QUD, fact is at issue in question
-                            "Question", {q: "According to John, what's in the box?",
+                            "Question", {q: "What's in the box, according to John?",
                                         as: ["a bomb", "a pillow"]},
                             "Question", {q: "What was really in the box?",
                                         as: ["a bomb", "a pillow"]},
@@ -78,7 +78,7 @@ var items = [
                                         ],
 
     [["story", 1], "Form", {html: {include: 'Mary_bomb_belief_story_pillow.html'}}, //9 - mismatch: belief QUD, fact is at issue in question
-                            "Question", {q: "According to Mary, what's in the box?",
+                            "Question", {q: "What's in the box, according to Mary?",
                                         as: ["a bomb", "a pillow"]},
                             "Question", {q: "What was really in the box?",
                                         as: ["a bomb", "a pillow"]},
@@ -88,7 +88,7 @@ var items = [
 
 
     [["story", 1], "Form", {html: {include: 'Mary_bomb_fact_story_pillow.html'}}, //10 - match: fact QUD, fact is at issue in question
-                            "Question", {q: "According to Mary, what's in the box?",
+                            "Question", {q: "What's in the box, according to Mary?",
                                         as: ["a bomb", "a pillow"]},
                             "Question", {q: "What was really in the box?",
                                         as: ["a bomb", "a pillow"]},
