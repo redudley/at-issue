@@ -1,0 +1,689 @@
+#
+# Results on Friday November 30 2018 15:20:40 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,3,0,consent,NULL,,yes
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,3,0,consent,NULL,_REACTION_TIME_,4580
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,4,0,instructions,NULL,_REACTION_TIME_,1527
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,5,0,story,8,_REACTION_TIME_,14389
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Question,5,1,story,8,What does John think is in the box?,a bomb,1,2248
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Question,5,2,story,8,What was really in the box?,a pillow,0,1292
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Question,5,3,story,8,Was John right about that?,no,1,2699
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,not at all worried,NULL,3666
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,very worried,NULL,2924
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,8,0,subj_info,NULL,year,1981
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,8,0,subj_info,NULL,language,english
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,8,0,subj_info,NULL,idturk,AYY7JSAD0SGXL
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,8,0,subj_info,NULL,comment,
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,8,0,subj_info,NULL,sex,female
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,8,0,subj_info,NULL,politics,republican
+1543591241,c9b6f87ab82c66abe630b5789d13f564,Form,8,0,subj_info,NULL,_REACTION_TIME_,22837
+#
+# Results on Friday November 30 2018 15:21:07 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,3,0,consent,NULL,,yes
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,3,0,consent,NULL,_REACTION_TIME_,10273
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,4,0,instructions,NULL,_REACTION_TIME_,4832
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,5,0,story,8,_REACTION_TIME_,22611
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Question,5,1,story,8,What does John think is in the box?,a bomb,1,4387
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Question,5,2,story,8,What was really in the box?,a pillow,0,1883
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Question,5,3,story,8,Was John right about that?,no,1,4464
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,a little worried,NULL,2720
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,a little worried,NULL,3772
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,8,0,subj_info,NULL,year,1963
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,8,0,subj_info,NULL,language,english
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,8,0,subj_info,NULL,idturk,APRZ7BR8C0ZMQ
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,8,0,subj_info,NULL,comment,
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,8,0,subj_info,NULL,sex,male
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,8,0,subj_info,NULL,politics,democrat
+1543591268,ebe33a015df2c82150440f83ce75ddf6,Form,8,0,subj_info,NULL,_REACTION_TIME_,14956
+#
+# Results on Friday November 30 2018 15:21:13 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,3,0,consent,NULL,,yes
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,3,0,consent,NULL,_REACTION_TIME_,6372
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,4,0,instructions,NULL,_REACTION_TIME_,14637
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,5,0,story,8,_REACTION_TIME_,19949
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Question,5,1,story,8,What does John think is in the box?,a bomb,1,5318
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Question,5,2,story,8,What was really in the box?,a pillow,0,3234
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Question,5,3,story,8,Was John right about that?,no,1,4305
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,a little worried,NULL,9181
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,very worried,NULL,3662
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,8,0,subj_info,NULL,year,1983
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,8,0,subj_info,NULL,language,english
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,8,0,subj_info,NULL,idturk,A1C7XI68SED8JE
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,8,0,subj_info,NULL,comment,
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,8,0,subj_info,NULL,sex,female
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,8,0,subj_info,NULL,politics,republican
+1543591273,f23f74a1b7f1cfd8d0d75deb2d590829,Form,8,0,subj_info,NULL,_REACTION_TIME_,23707
+#
+# Results on Friday November 30 2018 15:21:25 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591286,cebda82e11731077b7508381e217f499,Form,3,0,consent,NULL,,yes
+1543591286,cebda82e11731077b7508381e217f499,Form,3,0,consent,NULL,_REACTION_TIME_,9014
+1543591286,cebda82e11731077b7508381e217f499,Form,4,0,instructions,NULL,_REACTION_TIME_,3921
+1543591286,cebda82e11731077b7508381e217f499,Form,5,0,story,8,_REACTION_TIME_,32201
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591286,cebda82e11731077b7508381e217f499,Question,5,1,story,8,What does John think is in the box?,a bomb,1,3034
+1543591286,cebda82e11731077b7508381e217f499,Question,5,2,story,8,What was really in the box?,a pillow,0,2244
+1543591286,cebda82e11731077b7508381e217f499,Question,5,3,story,8,Was John right about that?,no,1,3417
+1543591286,cebda82e11731077b7508381e217f499,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,a little worried,NULL,5341
+1543591286,cebda82e11731077b7508381e217f499,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,very worried,NULL,4237
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591286,cebda82e11731077b7508381e217f499,Form,8,0,subj_info,NULL,year,1984
+1543591286,cebda82e11731077b7508381e217f499,Form,8,0,subj_info,NULL,language,english
+1543591286,cebda82e11731077b7508381e217f499,Form,8,0,subj_info,NULL,idturk,A2SFA39PP7XJWE
+1543591286,cebda82e11731077b7508381e217f499,Form,8,0,subj_info,NULL,comment,
+1543591286,cebda82e11731077b7508381e217f499,Form,8,0,subj_info,NULL,sex,female
+1543591286,cebda82e11731077b7508381e217f499,Form,8,0,subj_info,NULL,politics,democrat
+1543591286,cebda82e11731077b7508381e217f499,Form,8,0,subj_info,NULL,_REACTION_TIME_,32585
+#
+# Results on Friday November 30 2018 15:21:31 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,3,0,consent,NULL,,yes
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,3,0,consent,NULL,_REACTION_TIME_,8660
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,4,0,instructions,NULL,_REACTION_TIME_,2438
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,5,0,story,8,_REACTION_TIME_,14164
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Question,5,1,story,8,What does John think is in the box?,a bomb,1,2490
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Question,5,2,story,8,What was really in the box?,a pillow,0,1606
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Question,5,3,story,8,Was John right about that?,no,1,3361
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,a little worried,NULL,4025
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,a little worried,NULL,3792
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,8,0,subj_info,NULL,year,1963
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,8,0,subj_info,NULL,language,english
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,8,0,subj_info,NULL,idturk,A26RO8GGTQAXGG
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,8,0,subj_info,NULL,comment,
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,8,0,subj_info,NULL,sex,female
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,8,0,subj_info,NULL,politics,democrat
+1543591292,9370d0310d7ad17a91ba2cf8728cd390,Form,8,0,subj_info,NULL,_REACTION_TIME_,17440
+#
+# Results on Friday November 30 2018 15:21:45 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,3,0,consent,NULL,,yes
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,3,0,consent,NULL,_REACTION_TIME_,5170
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,4,0,instructions,NULL,_REACTION_TIME_,1222
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,5,0,story,8,_REACTION_TIME_,8732
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591306,ada12343a6c83b5059688312fa658ef3,Question,5,1,story,8,What does John think is in the box?,a bomb,1,1930
+1543591306,ada12343a6c83b5059688312fa658ef3,Question,5,2,story,8,What was really in the box?,a pillow,0,1404
+1543591306,ada12343a6c83b5059688312fa658ef3,Question,5,3,story,8,Was John right about that?,no,1,2198
+1543591306,ada12343a6c83b5059688312fa658ef3,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,not at all worried,NULL,2075
+1543591306,ada12343a6c83b5059688312fa658ef3,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,very worried,NULL,2259
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,8,0,subj_info,NULL,year,1990
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,8,0,subj_info,NULL,language,English
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,8,0,subj_info,NULL,idturk,A2AOD3GOS9NKFC
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,8,0,subj_info,NULL,comment,
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,8,0,subj_info,NULL,sex,male
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,8,0,subj_info,NULL,politics,republican
+1543591306,ada12343a6c83b5059688312fa658ef3,Form,8,0,subj_info,NULL,_REACTION_TIME_,19562
+#
+# Results on Friday November 30 2018 15:21:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,3,0,consent,NULL,,yes
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,3,0,consent,NULL,_REACTION_TIME_,5180
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,4,0,instructions,NULL,_REACTION_TIME_,3083
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,5,0,story,8,_REACTION_TIME_,12081
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Question,5,1,story,8,What does John think is in the box?,a bomb,1,2742
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Question,5,2,story,8,What was really in the box?,a pillow,0,2083
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Question,5,3,story,8,Was John right about that?,no,1,2872
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,a little worried,NULL,3823
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,very worried,NULL,2446
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,8,0,subj_info,NULL,year,1984
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,8,0,subj_info,NULL,language,english
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,8,0,subj_info,NULL,idturk,A1AF25FCVKC87X
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,8,0,subj_info,NULL,comment,
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,8,0,subj_info,NULL,sex,male
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,8,0,subj_info,NULL,politics,other
+1543591314,bae375c4bbeff54e9d2b61d15b20967f,Form,8,0,subj_info,NULL,_REACTION_TIME_,13482
+#
+# Results on Friday November 30 2018 15:22:12 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,3,0,consent,NULL,,yes
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,3,0,consent,NULL,_REACTION_TIME_,13502
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,4,0,instructions,NULL,_REACTION_TIME_,3112
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,5,0,story,8,_REACTION_TIME_,18560
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591333,a125c7a1a82a194be148b7e4425e352d,Question,5,1,story,8,What does John think is in the box?,a bomb,1,3145
+1543591333,a125c7a1a82a194be148b7e4425e352d,Question,5,2,story,8,What was really in the box?,a pillow,0,2518
+1543591333,a125c7a1a82a194be148b7e4425e352d,Question,5,3,story,8,Was John right about that?,no,1,3470
+1543591333,a125c7a1a82a194be148b7e4425e352d,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,a little worried,NULL,6413
+1543591333,a125c7a1a82a194be148b7e4425e352d,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,a little worried,NULL,4448
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,8,0,subj_info,NULL,year,1952
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,8,0,subj_info,NULL,language,English
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,8,0,subj_info,NULL,idturk,A1J2SF4IQEQ5OP
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,8,0,subj_info,NULL,comment,No comments
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,8,0,subj_info,NULL,sex,female
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,8,0,subj_info,NULL,politics,democrat
+1543591333,a125c7a1a82a194be148b7e4425e352d,Form,8,0,subj_info,NULL,_REACTION_TIME_,44120
+#
+# Results on Friday November 30 2018 15:25:09 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,3,0,consent,NULL,,yes
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,3,0,consent,NULL,_REACTION_TIME_,4139
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,4,0,instructions,NULL,_REACTION_TIME_,2011
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,5,0,story,8,_REACTION_TIME_,12722
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Question,5,1,story,8,What does John think is in the box?,a bomb,1,1824
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Question,5,2,story,8,What was really in the box?,a pillow,0,1490
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Question,5,3,story,8,Was John right about that?,no,1,1237
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,very worried,NULL,1893
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,a little worried,NULL,2134
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,8,0,subj_info,NULL,year,1982
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,8,0,subj_info,NULL,language,english
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,8,0,subj_info,NULL,idturk,A2C4R0TBPZGWTD
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,8,0,subj_info,NULL,comment,
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,8,0,subj_info,NULL,sex,male
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,8,0,subj_info,NULL,politics,democrat
+1543591509,0b336903e296cce9a84ab1f03ac33bfa,Form,8,0,subj_info,NULL,_REACTION_TIME_,13837
+#
+# Results on Friday November 30 2018 15:26:43 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:63.0) Gecko/20100101 Firefox/63.0
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,3,0,consent,NULL,,yes
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,3,0,consent,NULL,_REACTION_TIME_,11863
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,4,0,instructions,NULL,_REACTION_TIME_,3074
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,5,0,story,8,_REACTION_TIME_,13616
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591603,d831f10e50c20245849d0e00a198acc0,Question,5,1,story,8,What does John think is in the box?,a bomb,1,2566
+1543591603,d831f10e50c20245849d0e00a198acc0,Question,5,2,story,8,What was really in the box?,a pillow,0,2270
+1543591603,d831f10e50c20245849d0e00a198acc0,Question,5,3,story,8,Was John right about that?,no,1,2414
+1543591603,d831f10e50c20245849d0e00a198acc0,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,a little worried,NULL,4611
+1543591603,d831f10e50c20245849d0e00a198acc0,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,a little worried,NULL,128
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,8,0,subj_info,NULL,year,1990
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,8,0,subj_info,NULL,language,English
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,8,0,subj_info,NULL,idturk,AWALPW9WKTLHE
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,8,0,subj_info,NULL,comment,
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,8,0,subj_info,NULL,sex,male
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,8,0,subj_info,NULL,politics,democrat
+1543591603,d831f10e50c20245849d0e00a198acc0,Form,8,0,subj_info,NULL,_REACTION_TIME_,25368
+#
+# Results on Friday November 30 2018 15:28:37 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.0; rv:52.0) Gecko/20100101 Firefox/52.0
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,3,0,consent,NULL,,yes
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,3,0,consent,NULL,_REACTION_TIME_,92698
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,4,0,instructions,NULL,_REACTION_TIME_,2728
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,5,0,story,8,_REACTION_TIME_,24378
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Question,5,1,story,8,What does John think is in the box?,a bomb,1,2250
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Question,5,2,story,8,What was really in the box?,a pillow,0,1874
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Question,5,3,story,8,Was John right about that?,no,1,9024
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,a little worried,NULL,4838
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,a little worried,NULL,4186
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,8,0,subj_info,NULL,year,1956
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,8,0,subj_info,NULL,language,English
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,8,0,subj_info,NULL,idturk,AENJ7GDYBENYX
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,8,0,subj_info,NULL,comment,
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,8,0,subj_info,NULL,sex,male
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,8,0,subj_info,NULL,politics,other
+1543591717,43ca7e969abf5adc280f47d24d09d90e,Form,8,0,subj_info,NULL,_REACTION_TIME_,25478
+#
+# Results on Friday November 30 2018 15:34:47 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 11
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,3,0,consent,NULL,,yes
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,3,0,consent,NULL,_REACTION_TIME_,3334
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,4,0,instructions,NULL,_REACTION_TIME_,2808
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,5,0,story,8,_REACTION_TIME_,12370
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Question,5,1,story,8,What does John think is in the box?,a bomb,1,2383
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Question,5,2,story,8,What was really in the box?,a pillow,0,1427
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Question,5,3,story,8,Was John right about that?,no,1,2302
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,a little worried,NULL,3655
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,a little worried,NULL,3324
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,8,0,subj_info,NULL,year,1984
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,8,0,subj_info,NULL,language,English
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,8,0,subj_info,NULL,idturk,A1IWRYUOVXAB0Z
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,8,0,subj_info,NULL,comment,
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,8,0,subj_info,NULL,sex,male
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,8,0,subj_info,NULL,politics,democrat
+1543592088,33a89da967b48c2cde3e5dd708545d8f,Form,8,0,subj_info,NULL,_REACTION_TIME_,16420
+#
+# Results on Friday November 30 2018 15:35:31 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+# Design number was non-random = 11
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,3,0,consent,NULL,,yes
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,3,0,consent,NULL,_REACTION_TIME_,8080
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,4,0,instructions,NULL,_REACTION_TIME_,2028
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,5,0,story,8,_REACTION_TIME_,15147
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Question,5,1,story,8,What does John think is in the box?,a bomb,1,1657
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Question,5,2,story,8,What was really in the box?,a pillow,0,1473
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Question,5,3,story,8,Was John right about that?,no,1,2081
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Question,7,0,politics,NULL,How worried are you about taxpayer money being wasted?,very worried,NULL,3606
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Question,6,0,politics,NULL,How worried are you about bombs being sent to government officials?,very worried,NULL,1795
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,8,0,subj_info,NULL,year,1958
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,8,0,subj_info,NULL,language,English
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,8,0,subj_info,NULL,idturk,A2TDK0LD62WZ8Y
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,8,0,subj_info,NULL,comment,
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,8,0,subj_info,NULL,sex,female
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,8,0,subj_info,NULL,politics,democrat
+1543592131,f9067306412bb7dfc5d115ca28c0b398,Form,8,0,subj_info,NULL,_REACTION_TIME_,14625
