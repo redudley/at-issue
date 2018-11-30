@@ -18,6 +18,11 @@ var defaults = [
         continueOnReturn: false,
         saveReactionTime: true,
     },
+    "Message", {
+        hideProgressBar: true,
+        transfer: null,
+        saveReactionTime: true,
+    },
     "Question", {
         hideProgressBar: true,
         hasCorrect: true,
@@ -57,7 +62,7 @@ var items = [
 
     ["subj_info", "Form", {html: {include: 'subject_info_political.html'}}],
 
-    ["code", "Form", {html: {include: 'code.html'}}],
+    ["code", "Message", {html: {include: 'code.html'}}],
 
 
 ];
