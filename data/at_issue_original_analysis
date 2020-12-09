@@ -1,0 +1,35 @@
+######## prepare workspace ########
+#load required packages
+require(tidyverse)
+
+
+#set working directory
+setwd("~/Documents/GitHub/at-issue/data/primary_data")
+
+
+######## create master file of raw data ########
+#pull file names from the data folder
+ATI_conditions = list.files(getwd())
+ATI_conditions = ATI_conditions[grepl(".csv",ATI_conditions)]
+
+#prep read.csv function
+ATI_data = read.csv("results-full-ATI-5.csv", header = FALSE, sep=",", skip=15, col.names=c("Time_ID", "IP_ID", "Controller", "Item_number", "Element_number", "Type", "Group", "Question", "Response", "Accurate", "Response_time"), fill = TRUE)
+
+#use lapply to apply the read.delim function to all file names
+ATI_data = lapply(ATI_conditions, read.delim, header = FALSE, sep=",")
+
+ skip=15, sep=",", col.names=c("Time_ID", "IP_ID", "Controller", "Item_number", "Element_number", "Type", "Group", "Question", "Response", "Accurate", "Response_time") fill = TRUE)
+ATI_data = do.call(rbind,ATI_data)
+
+######## clean up data files ########
+
+######## calculate mean errors by factor ########
+
+######## statistical analysis over means ########
+
+
+######## prepare reaction time data ########
+
+
+
+######## reaction time analysis ########
